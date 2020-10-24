@@ -16,8 +16,7 @@ Wszystkie pośrednie kroki / zapytania, które będziesz wykonywać w tym zadani
 
 Zapoznaj się z bazą danych
 
-- Załóżmy, że jesteś nowym analitykiem danych w Royal Banku.
-Aby łatwo rozpocząć przeglądanie wszystkich danych, napisz listę zapytań, aby wyświetlić wszystkie dane banku (uruchamiane tylko raz).
+- Załóżmy, że jesteś nowym analitykiem danych w Royal Banku. Ktoś wprowadza Cię do twoich codziennych obowiązków przez filmik wideo https://youtu.be/LZULKsbt0yg (od 2:40). Aby łatwo rozpocząć przeglądanie wszystkich danych, napisz listę zapytań, aby wyświetlić wszystkie dane banku (uruchamiane tylko raz).
 
 - W celu łatwiejszej analizy możesz wykonać diagram EER (Reversed Engineering). Jeżeli go wykonasz dołącz screenshot dorozwiązania.
 
