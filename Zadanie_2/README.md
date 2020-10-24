@@ -27,7 +27,7 @@ Dział marketingu zastanwia się, gdzie i komu najlepiej reklamować nasz bank, 
 
 #### Wstęp - klienci banku
 Na początek przyjrzyj się tabeli klientów. Znajdź najlepiej zarabiających klientów. Z sumuj ich miesięczne wypłaty. Czy jesteś wstanie wskazać sumarycznie najlepiej zarabiający stan? 
-Czy o takie wynik chodziło działowi marketingu? Popraw swoją dotyczasową analizę i porównaj sumy nie tylko dochodu, ale również revenue jakie otrzymuje firma w każdym stanie. Zbierz również informacje, która forma korzystania z konta jest najczęściej aktywowana przez klientów.
+Czy o takie wynik chodziło działowi marketingu? Popraw swoją dotyczasową analizę i porównaj sumy nie tylko dochodu, ale również revenue jakie otrzymuje firma w każdym stanie. Zbierz również informacje, która forma korzystania z konta jest najczęściej aktywowana przez klientów - wizyta w oddziale, bankowość cyfrowa, apple pay, czy korzystają z opcji kontrolli finansów - financial wellbeing.
 
 
 #### Zapoznanie z transakcjami
