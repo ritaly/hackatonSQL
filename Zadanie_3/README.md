@@ -13,7 +13,6 @@ Aby używać tabeli z bazy konieczne jest wskazanie, którą z baz chcemy wkorz
 
 Wszystkie pośrednie kroki / zapytania, które będziesz wykonywać w tym zadaniu zapisz jako `solution_task_3.sql` i prześlij mi na koniec. Swój tok myślenia możesz również zanotować w formie komentarzy do kodu.
 
-
 Zapoznaj się z bazą danych
 
 - W celu łatwiejszej analizy możesz wykonać diagram EER (Reversed Engineering). Jeżeli go wykonasz dołącz screenshot dorozwiązania.
@@ -46,7 +45,12 @@ Zapoznaj się z bazą danych
 
 13. Musimy sprawdzić do jakich sklepów chodzili nasi klienci i czy nadal są aktywnymi użytkownikami. Pobierz imię i nazwisko wszystkich klientów i nadaj im etykietę wg sklepu który odwiedzali np. - store 1 (active), store 1 (inactive), store 2 (active), store 2 (inactive). Skorzystaj z klauzuli `CASE/WHEN/THEN`
 
-14.
+14. ⭐️ Te dane są bardzo wartościowe, trzeba jednak sprawdzić ilu mamy klientów niekatywnyk kontra aktywnych w każdym miejscu (lokalnym sklepie). Wyświetl liczbę klientów wg ID sklepu i liczbę aktywnych i nieaktywnych użytkowników (użyj `CASE/WHEN/THEN` oraz grupowania danych po store_id).
+
+15. Czy możesz pobrać informacje o wszystkich filmach które mamy w magazynie? Chcemy zobaczyć tytuł, description oraz ID sklepu dla każdego DVD oraz ID magazynowe (inventory_id)
+
+16. Jeden z naszych inwestorów jest zainteresowan naszymi filmami oraz informacją ilu aktorów wyświetlamy dla każdego tytułu. Czy możesz pobrać listę wszystkich tytułów oraz dowiedzieć się jak wielu aktorów wyświetlamy dla każdego tytułu?  Wyświetl tytuł nawet jeśli nie mamy w baziejego aktorów (użyj `LEFT JOIN`).
+
  
 
 
