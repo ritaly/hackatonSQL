@@ -31,3 +31,10 @@ Zapoznaj się z bazą danych
 5. Przyjrzyj się bazie filmów. Chcemy sprawdzić w jakich filmach mamy dodatki specjalne takie jak "Behind the Scene".
 
 6. Musimy na szybko dowiedzieć się jak długo są wypożyczane nasze filmy. Czy możesz zdobyć dla mnie informację o liczbie tytułów pogrupowanych wg. czasu wypożyczenia? 
+
+7. Zobaczmy jak dobrze są oceniane filmy w naszej bazie - wyświetl ocenę (rating) oraz liczę filmów o danej ocenie.
+
+8. Niektóre płyty to klasyki trudnodostępne obecnie w wersji DVD. Zastanawiam się czy pobieramy wyższą opłatę, jeśli koszt zastąpienia uszkodzonej płyty jest dla nas wyższy (nasze ryzyko) Czy możesz zliczyć liczbę filmów wraz z średnią, minimalną i maksymalną kwotą stawką wypożyczenia (rental rate) pogrupowane wg. kosztu zastąpienia (replacemenet cost)
+ 
+
+
