@@ -36,11 +36,17 @@ Zapoznaj się z bazą danych
 
 8. Niektóre płyty to klasyki trudnodostępne obecnie w wersji DVD. Zastanawiam się czy pobieramy wyższą opłatę, jeśli koszt zastąpienia uszkodzonej płyty jest dla nas wyższy (nasze ryzyko) Czy możesz zliczyć liczbę filmów wraz z średnią, minimalną i maksymalną kwotą stawką wypożyczenia (rental rate) pogrupowane wg. kosztu zastąpienia (replacemenet cost)
 
-9.
+9. Z tabeli wypożyczeń (rental) zlicz wszystkie wypożyczenia pogrupowane wg. ID klienta. Wyświetly tylko tam gdzie liczba wypożyczeń jest wyższa lub równa 30.
 
-10.
+10. Warto by było porozmawiać z klientami, którzy byli u nas, ale nie wypożyczają za wiele filmów, co możemy zrobić lepiej? Znajdź ID klientów, którzy  mają mniej niż 15 wypożyczeń.
 
-11.
+11. Zbierzmy teraz trochę informacji o płatnościach. Wyświetl z bazy ID klienta, ID wypożyczenia, kwotę oraz datę płatności posortowane od najwyższej kwoty. Wynik ogranicz do pierwszy 5 wyników (zapoznaj się w google z klauzulą `LIMIT`).
+
+12. Chcielibyśmy sprawdzić najdłuższy z filmów i jednocześnie najdroższy pod względem stawki wypożyczenia. Wyświetl wszystkie tytuły razem z długością trwania filmu i kwotą wypożyczenia w kolejności od najdłuższego do najkrótszego
+
+13. Musimy sprawdzić do jakich sklepów chodzili nasi klienci i czy nadal są aktywnymi użytkownikami. Pobierz imię i nazwisko wszystkich klientów i nadaj im etykietę wg sklepu który odwiedzali np. - store 1 (active), store 1 (inactive), store 2 (active), store 2 (inactive). Skorzystaj z klauzuli `CASE/WHEN/THEN`
+
+14.
  
 
 
