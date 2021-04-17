@@ -1,4 +1,4 @@
-# 23. Wypożyczalnia DVD
+# 3. Wypożyczalnia DVD
 
 Wyobraź sobie, że wraz ze znajomym kupiliście retro wypożyczalnie i teraz musisz się zająć zdobyciem wszelkiech informacji na jej temat, niczym prawdziwy Biznes Analityk. 
 
