@@ -5,18 +5,18 @@ Do analizy otrzymujesz bazę, która posiada 2 tabele z informacjami na temat na
 1. Baza 100 najpopularniejszych imion dziecięcych nadawnych w południowej Australii w 2019
 2. Baza wszystkich imion psich nadawanych na Słonecznym Wybrzeżu (Queensland, Australia 2019)
 
-Rostrzgnijmy hipotetyczne pytanie są imiona bardziej odpowiednie dla psów lub dla zwierząt.
+Rostrzgnijmy hipotetyczne pytanie - które imiona są bardziej powszechne u psów a jakie dla ludzi.
 
 
 ### Ustawienia:
 
 1. W pliku `dog_baby_names.sql` znajduje się kod tworzący bazę startową - `DOG_BABY_NAMES_DB`.
-2. Uruchom plik w programie Workbench i wykonaj kod (tylko raz - [instrukcja z 2 zajęć](https://youtu.be/so7xe0pO-bE?t=101) )
-3. W lewym pasku nawigacji, w zakładce schema pojawi się nowa baza
+2. Uruchom plik w programie Workbench i wykonaj kod (tylko raz - [instrukcja z zajęć 2](https://youtu.be/so7xe0pO-bE?t=101) )
+3. W lewym pasku nawigacji, w zakładce schema pojawi się nowa baza - `DOG_BABY_NAMES_DB`
 
 Aby używać tabeli z bazy konieczne jest wskazanie, którą z baz chcemy wkorzystywać albo jako przedrostek przed nazwą tabeli lub poprzez instrukcję `use <nazwa_bazy>;` .
 
-Wszystkie pośrednie kroki / zapytania, które będziesz wykonywać w tym zadaniu zapisz jako `solution_task_1.sql` i prześlij mi na koniec. Swój tok myślenia możesz również zanotować w formie komentarzy do kodu.
+Wszystkie pośrednie kroki / zapytania, które będziesz wykonywać w tym zadaniu zapisz jako `solution_task_1.sql` i prześlij mi na koniec hackatonu (lub wrzuc na swojego githuba). Swój tok myślenia możesz również zanotować w formie komentarzy do kodu.
 
 
 ### Zadanie
@@ -26,15 +26,15 @@ Na warsztat weźmiemy imię **Max** oraz **Jess**.
 
 Zbierz informacje wstępne o nowym zbiorze danych. Pytania potraktuj jak podpowiedzi. 
 
-1. Odpowiednim poleceniem wyświetl informacje o tabelach
+1. Odpowiednim poleceniem wyświetl informacje o tabelach [documentacja MySql](https://dev.mysql.com/doc/refman/8.0/en/getting-information.html)
 2. Wyświetl tabele i wstępnie przejrzyj otrzymane dane.
 3. Ile rekordów jest w każdej z tych baz?
 
 Zastanów się w jaki sposób wyciągnąć dane o powyższych imionach? 
-Wszystkie imiona związane z zadanymi imionami dla psów jak i dla dzieci.
+Jak wyświetli wszystkie imiona związane z szukanymi imionami dla psów jak i dla dzieci.
 
 1. Ile psów nosi imię zawierające imię Max / Jess? 
-2. Czy te wariacje będą dla nas się liczyć?
+2. Czy te wariacje (pochodne imienia) będą dla nas się liczyć?
 3. Ile dzieci nosi powyższe imiona i ich wariacje?
 4. Czy te liczby da się w prosty sposób porównać? Dlaczego tak / dlaczego nie?
 
